@@ -3,7 +3,7 @@
 
 ## Descripción
 
-Este proyecto implementa un sistema de reconocimiento de emociones en imágenes utilizando modelos de 
+Este proyecto implementa un sistema de reconocimiento de emociones utilizando modelos de 
 aprendizaje profundo. El sistema es capaz de predecir emociones, raza y edad.
 
 El sistema proporciona etiquetas de emociones como:
